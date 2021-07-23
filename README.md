@@ -9,13 +9,21 @@ You take two names:
 #### Name A
 #### Name B
 You try to cross off the letters of the names (spaces are not counted) as they are matched respectively. Once that is done, you count the remaining letters. Their sum is what determines where the result would fall in using the general tree:
-*F*:1,7,13
-*L*:2,8,14
-*A*:3,9,15
-*M*:4,10,16
-*E*:5,11,17
-*S*:6,12,18
+
+**F**:1,7,13
+
+**L**:2,8,14
+
+**A**:3,9,15
+
+**M**:4,10,16
+
+**E**:5,11,17
+
+**S**:6,12,18
+
 And it goes down continually to infinity.
+
 So, if it sums to 7, both are considered to be Friends (F).
 Boom!! And simple.
 
